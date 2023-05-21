@@ -1,0 +1,15 @@
+{
+  "name": "com.tunght.core",
+  "version": "0.0.1",
+  "displayName": "TungHT Core",
+  "description": "My core Unity library",
+  "unity": "2021.3",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "author": {
+    "name": "Tung Ha",
+    "email": "tunght13488 at gmail dot com",
+    "url": "https://tunght.com"
+  }
+}
