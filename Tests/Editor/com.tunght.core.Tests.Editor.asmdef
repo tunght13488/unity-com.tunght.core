@@ -1,4 +1,16 @@
-﻿{
-  "name": "com.tunght.core.Tests.Editor",
-  "rootNamespace": "TungHT.Core.Tests.Editor"
+{
+    "name": "com.tunght.core.Tests.Editor",
+    "rootNamespace": "TungHT.Core.Tests.Editor",
+    "references": [
+        "com.tunght.core.Editor"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
